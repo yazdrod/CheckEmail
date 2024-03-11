@@ -1,0 +1,10 @@
+# EXEMPLE DE FICHIER D'EMAIL COMPROMIS 
+# EXAMPLE OF COMPROMISED EMAIL FILE
+
+ [!]test@outloook.fr
+   - Compromised service 
+   - Compromised service 
+
+ [!]test@gmail.com
+   - Compromised service 
+   - Compromised service 
